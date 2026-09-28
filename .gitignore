@@ -1,6 +1,9 @@
-#OS X
+# macOS
 .DS_Store
 
-# Xcode
-xcuserdata
-xcshareddata
+# Xcode user settings and build output
+xcuserdata/
+*.xcuserstate
+DerivedData/
+build/
+*.xcarchive
